@@ -1,9 +1,7 @@
-Jere Koiviston Miinantallaaja lopputyö kurssille 521141P
+Python minesweeper for a university course.
 
-Ohjelma käynnistyy suorittamalla main.py tiedoston.
+Requires Pyglet and tkinter modules.
 
-Käyttää pyglet ja tkinter moduuleja.
-
-Ohjaukset:
-    LMB, MMB ja muut hiiri näppäimet: Klikkaa solua, navigoi valikkoja.
-    RMB aseta lippu.
+Controls:
+    LMB, MMB and other mouse buttons: Click cells, navigate menus.
+    RMB: Plant flags.
